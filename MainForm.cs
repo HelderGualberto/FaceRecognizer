@@ -156,7 +156,7 @@ namespace MultiFaceRec
            
             Int32 frameWidth = 320;
             Int32 frameheight = 240;
-           
+            Int32 git = 90;
 
             Image<Gray, Byte> lastFrame;
             Image<Gray, Byte> frameDifference = new Image<Gray, byte>(frameWidth, frameheight);
