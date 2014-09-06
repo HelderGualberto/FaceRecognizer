@@ -89,14 +89,7 @@ namespace MultiFaceRec
             button1.Enabled = false;
         }
 
-
-
-        private void buttonCapture_Click(object sender, EventArgs e) 
-        {
-
-        }
-
-
+/*
         private void button2_Click(object sender, System.EventArgs e)
         {
 
@@ -150,7 +143,7 @@ namespace MultiFaceRec
             }
         }
 
-
+        */
         void FrameGrabber(object sender, EventArgs e)
         {
            
@@ -162,20 +155,22 @@ namespace MultiFaceRec
             Image<Gray, Byte> atualFrame;
 
 
-            label3.Text = "0";
+           // label3.Text = "0";
             //label4.Text = "";
             NamePersons.Add("");
 
 
             //Get the current frame form capture device
 
-            lastFrame = grabber.QueryFrame().Resize(320, 240, Emgu.CV.CvEnum.INTER.CV_INTER_AREA).Convert<Gray, Byte>();
+            lastFrame = grabber.QueryFrame().Resize(frameWidth, frameheight, Emgu.CV.CvEnum.INTER.CV_INTER_AREA).Convert<Gray, Byte>();
 
             while (lastFrame == null) {
-                lastFrame = grabber.QueryFrame().Resize(320, 240, Emgu.CV.CvEnum.INTER.CV_INTER_AREA).Convert<Gray, Byte>();
+                lastFrame = grabber.QueryFrame().Resize(frameWidth, frameheight, Emgu.CV.CvEnum.INTER.CV_INTER_AREA).Convert<Gray, Byte>();
             }
 
-            currentFrame = grabber.QueryFrame().Resize(320, 240, Emgu.CV.CvEnum.INTER.CV_INTER_AREA);
+            currentFrame = grabber.QueryFrame().Resize(frameWidth, frameheight, Emgu.CV.CvEnum.INTER.CV_INTER_AREA);
+            
+
             atualFrame = currentFrame.Convert<Gray, Byte>();
             CvInvoke.cvAbsDiff(lastFrame,atualFrame,frameDifference);
 
@@ -186,10 +181,32 @@ namespace MultiFaceRec
             Image<Gray, Byte> erosion = new Image<Gray, byte>(frameWidth, frameheight);
             CvInvoke.cvErode(thresholded, erosion, IntPtr.Zero, 2);
 
-            drawBoxes(erosion, currentFrame);
+            drawBoxes(frameDifference, currentFrame);
+            Gray cannyThreshold = new Gray(180);
+            Gray cannyThresholdLinking = new Gray(120);
+            Image<Gray, Byte> edgeImage = erosion.Canny(cannyThreshold, cannyThresholdLinking);
 
-            capturedImageBox.Image = erosion;
-            imageBoxFrameGrabber.Image = currentFrame;
+            Contour<Point> contourns = edgeImage.FindContours();
+           /* while (contourns == null) {
+
+                lastFrame = grabber.QueryFrame().Resize(frameWidth, frameheight, Emgu.CV.CvEnum.INTER.CV_INTER_AREA).Convert<Gray,Byte>();
+                
+                currentFrame = grabber.QueryFrame().Resize(frameWidth, frameheight, Emgu.CV.CvEnum.INTER.CV_INTER_AREA);
+
+                CvInvoke.cvAbsDiff(lastFrame, currentFrame, frameDifference);
+                CvInvoke.cvThreshold(frameDifference, thresholded, 20, 255, THRESH.CV_THRESH_BINARY);
+                CvInvoke.cvErode(thresholded, erosion, IntPtr.Zero, 2);
+
+                edgeImage = erosion.Canny(cannyThreshold, cannyThresholdLinking);
+                contourns = edgeImage.FindContours();
+                Console.Write("here");
+
+            }*/
+
+
+            //capturedImageBox.Image = edgeImage;
+            //imageBoxFrameGrabber.Image = currentFrame;
+            
 
 
             //Convert it to Grayscale
@@ -236,7 +253,7 @@ namespace MultiFaceRec
 
 
                         //Set the number of faces detected on the scene
-                        label3.Text = facesDetected[0].Length.ToString();
+                       // label3.Text = facesDetected[0].Length.ToString();
                        
                         /*
                         //Set the region of interest on the faces
@@ -268,13 +285,13 @@ namespace MultiFaceRec
                     }
                     //Show the faces procesed and recognized
                     imageBoxFrameGrabber.Image = currentFrame;
-                    label4.Text = names;
+                    //label4.Text = names;
                     names = "";
                     //Clear the list(vector) of names
                     NamePersons.Clear();
 
                 }
-
+/*
         private void button3_Click(object sender, EventArgs e)
         {
             Process.Start("Donate.html");
@@ -284,7 +301,8 @@ namespace MultiFaceRec
         {
 
         }
-/*
+*/
+        /*
         private void ProcessFrame(object sender, EventArgs e)
         {
             Int32 _frameWidth = 320;
@@ -341,7 +359,8 @@ namespace MultiFaceRec
                 _backgroundImage = newBackground;
             }
             grayImageBox.Image = _backgroundImage;
-        }*/
+        }
+        */
         private void drawBoxes(Emgu.CV.Image<Gray, Byte> img, Emgu.CV.Image<Bgr, Byte> original)
         {
 
@@ -357,6 +376,7 @@ namespace MultiFaceRec
                 30, //min Line width
                 10 //gap between lines
                 )[0]; //Get the lines from the first channel
+            Int32 a = lines.Length;
 
 
             #region Find rectangles
@@ -365,9 +385,10 @@ namespace MultiFaceRec
             using (MemStorage storage = new MemStorage()) //allocate storage for contour approximation
                 for (Contour<Point> contours = cannyEdges.FindContours(); contours != null; contours = contours.HNext)
                 {
-                    Contour<Point> currentContour = contours.ApproxPoly(contours.Perimeter * 0.05, storage);
+                    Contour<Point> currentContour = contours.ApproxPoly(contours.Perimeter * 0.1, storage);
+                    boxList.Add(currentContour.GetMinAreaRect());
 
-                    if (contours.Area > 250) //only consider contours with area greater than 250
+                    /*if (contours.Area > 250) //only consider contours with area greater than 250
                     {
                         if (currentContour.Total == 4) //The contour has 4 vertices.
                         {
@@ -388,9 +409,11 @@ namespace MultiFaceRec
                             }
                             #endregion
 
-                            if (isRectangle) boxList.Add(currentContour.GetMinAreaRect());
+                            if (!isRectangle) boxList.Add(currentContour.GetMinAreaRect());
                         }
                     }
+                     */
+ 
                 }
             #endregion
 
@@ -398,11 +421,12 @@ namespace MultiFaceRec
             Image<Bgr, Byte> rectangleImage = new Image<Bgr, byte>(img.Width, img.Height);
             foreach (MCvBox2D box in boxList)
             {
-                rectangleImage.Draw(box, new Bgr(Color.DarkOrange), 2);
-                original.Draw(box, new Bgr(Color.DarkOrange), 2);
+                rectangleImage.Draw(box, new Bgr(Color.Red), 2);
+                original.Draw(box, new Bgr(Color.Red), 2);
             }
 
             capturedImageBox.Image = rectangleImage;
+            imageBoxFrameGrabber.Image = original;
             #endregion
         }
 
