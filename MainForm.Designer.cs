@@ -32,6 +32,7 @@
             this.button1 = new System.Windows.Forms.Button();
             this.imageBoxFrameGrabber = new Emgu.CV.UI.ImageBox();
             this.capturedImageBox = new Emgu.CV.UI.ImageBox();
+            this.Counter = new System.Windows.Forms.Label();
             ((System.ComponentModel.ISupportInitialize)(this.imageBoxFrameGrabber)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.capturedImageBox)).BeginInit();
             this.SuspendLayout();
@@ -65,11 +66,20 @@
             this.capturedImageBox.TabIndex = 2;
             this.capturedImageBox.TabStop = false;
             // 
+            // Counter
+            // 
+            this.Counter.AutoSize = true;
+            this.Counter.Location = new System.Drawing.Point(241, 267);
+            this.Counter.Name = "Counter";
+            this.Counter.Size = new System.Drawing.Size(0, 13);
+            this.Counter.TabIndex = 5;
+            // 
             // FrmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(750, 298);
+            this.Controls.Add(this.Counter);
             this.Controls.Add(this.capturedImageBox);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.imageBoxFrameGrabber);
@@ -78,6 +88,7 @@
             ((System.ComponentModel.ISupportInitialize)(this.imageBoxFrameGrabber)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.capturedImageBox)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -86,6 +97,7 @@
         private Emgu.CV.UI.ImageBox imageBoxFrameGrabber;
         private System.Windows.Forms.Button button1;
         private Emgu.CV.UI.ImageBox capturedImageBox;
+        private System.Windows.Forms.Label Counter;
     }
 }
 
