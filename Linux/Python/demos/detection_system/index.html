@@ -1,0 +1,147 @@
+<!--
+Copyright 2016 Universidade de sao paulo
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+-->
+
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>SafetyCity Project - Face Recognition - HUAWEI/USP</title>
+        <link href="vendor/css/bootstrap.min.css" rel="stylesheet">
+        <link href="vendor/css/bootstrap-toggle.min.css" rel="stylesheet">
+        <link href="vendor/css/bootstrap-dialog.min.css" rel="stylesheet">
+        <link href="css/main.css" rel="stylesheet">
+		<script src="http://www.w3schools.com/lib/w3data.js"></script>
+		<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+
+
+<style>
+table, th, td {
+    border: 1px solid black;
+}
+</style>
+
+    </head>
+<script>
+window.onload = function() {
+    var image    = document.getElementById("img");
+
+
+    function updateImage() {
+        image.src = image.src.split("?")[0] + "?" + new Date().getTime();
+        loadResults();
+    }
+
+    function loadResults()
+    {
+        var jqxhr = $.getJSON( "content.json"+ "?" + new Date().getTime(), function(data) {
+        	var idx=0
+        	var tabela = document.getElementById("tabdemo");
+        	console.log(data.resultados.length)
+        	tabela.innerHTML = "<tr><th>Imagem</th><th>Nome</th><th>Probabilidade</th></tr>";
+        	for (idx=0 ; idx < data.resultados.length; idx++)
+        		{
+        		console.log(data.resultados[idx]);
+        		tabela.innerHTML +=
+            		"<tr><td><img src=\""+data.resultados[idx].img+"\"></td><td>"+data.resultados[idx].nome+"__("+data.resultados[idx].extra+")</td><td>"+data.resultados[idx].proba+"</td></tr>";
+        		}
+        	});
+    }
+
+    setInterval(updateImage, 500);
+};
+</script>
+<body >
+
+<div w3-include-html="content.html"></div>
+<div class="row">
+<div class="col-md-2"><img src="log-usp.png"></div>
+                <div class="col-md-5">
+                        <h1 style="font-family: 'Alfa Slab One', serif; font-size: 72px;"> SafetyCity <p style="font-size: 20px;padding-left: 150px"> Project </p></h1>
+                </div>
+<div class="col-md-2"><img src="log-huawei.png"></div>
+</div>
+
+<table style="width:100%">
+ <tr><th >Camera</th><th>Resultado</th></tr>
+<tr><td ><img id="img" src="camera.jpg">
+</td>
+<td>
+<table id="tabdemo" style="width:100%"><tr><th>Imagem</th><th>Nome</th><th>Probabilidade</th></tr> </table>
+</td>
+</tr>
+</table>
+
+<script>
+
+/*w3IncludeHTML();
+
+var jqxhr = $.getJSON( "content.json", function(data) {
+	var idx=0
+	var tabela = document.getElementById("tabdemo");
+	console.log(data.resultados.length)
+	for (idx=0 ; idx < data.resultados.length; idx++)
+		{
+		console.log(data.resultados[idx]);
+		tabela.innerHTML +=
+    		"<tr><td><img src=\""+data.resultados[idx].img+"\"></td><td>"+data.resultados[idx].nome+"</td><td>"+data.resultados[idx].proba+"</td></tr>";
+		}
+	for (ind in data.employees)
+		{
+		console.log(ind.firstName+" "+ind.lastName)
+		}*/
+/*	$.each( data, function( key, val ) {
+	    console.log(idx+":"+key+" = "+val)
+
+	    if(idx%3==0)
+	    	{
+	    		tabela.innerHTML +=
+	    		"<tr><td>"+key+"="+val+"</td>";
+	    	}
+	    	else if (idx%3==2)
+	    	{
+	    		tabela.innerHTML +=
+		    		"<td>"+key+"="+val+"</td></tr>";
+
+	    	}
+	    	else {
+	    		tabela.innerHTML +=
+		    		"<td>"+key+"="+val+"</td>";
+
+	    	}
+	    	idx++;
+	    	});*/
+
+	});
+	/*
+	  .done(function() {
+	    console.log( "second success" );
+	  })
+	  .fail(function() {
+	    console.log( "error" );
+	  })
+	  .always(function() {
+	    console.log( "complete" );
+	  });*/
+
+
+</script>
+
+
+
+</body>
+</html>

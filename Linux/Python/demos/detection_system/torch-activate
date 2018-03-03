@@ -1,0 +1,6 @@
+export LUA_PATH='/root/.luarocks/share/lua/5.1/?.lua;/root/.luarocks/share/lua/5.1/?/init.lua;/vmstor/openface/torchbin/share/lua/5.1/?.lua;/vmstor/openface/torchbin/share/lua/5.1/?/init.lua;./?.lua;/vmstor/openface/torchbin/share/luajit-2.1.0-beta1/?.lua;/usr/local/share/lua/5.1/?.lua;/usr/local/share/lua/5.1/?/init.lua'
+export LUA_CPATH='/root/.luarocks/lib/lua/5.1/?.so;/vmstor/openface/torchbin/lib/lua/5.1/?.so;./?.so;/usr/local/lib/lua/5.1/?.so;/usr/local/lib/lua/5.1/loadall.so'
+export PATH=/vmstor/openface/torchbin/bin:$PATH
+export LD_LIBRARY_PATH=/vmstor/openface/torchbin/lib:$LD_LIBRARY_PATH
+export DYLD_LIBRARY_PATH=/vmstor/openface/torchbin/lib:$DYLD_LIBRARY_PATH
+export LUA_CPATH='/vmstor/openface/torchbin/lib/?.so;'$LUA_CPATH

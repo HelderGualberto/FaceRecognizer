@@ -1,0 +1,5831 @@
+('args:', Namespace(cuda=False, dlibFacePredictor='../../../data/models/dlib/shape_predictor_68_face_landmarks.dat', fatorRed=0.5, frameDelay=0, imgDim=96, networkModel='../../../data/models/openface/nn4.small2.v1.t7', port=9000, rotateIm=True, timeDelay=0.2, unknown=False, video='rtsp://viwer:fullsec123@10.1.1.6:554/H264'))
+['rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1', 'rtsp://viwer:fullsec123@10.1.1.6:554/H264']
+rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+/usr/local/lib/python2.7/dist-packages/pymongo/topology.py:145: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#pymongo-fork-safe>
+  "MongoClient opened before fork. Create MongoClient "
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+/usr/local/lib/python2.7/dist-packages/pymongo/topology.py:145: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#pymongo-fork-safe>
+  "MongoClient opened before fork. Create MongoClient "
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+PID: 10203
+a30logreg.pkl 735
+Carregado a30logreg.pkl como modelo da base
+a30logreg.pkl 735
+Carregado a30logreg.pkl como modelo da base
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamenInvalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+to
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) paraInvalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+ processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagInvalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+em de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (256, 228, 3) para processamento
+Processando regiao encontrada de dlib [(54, 66) (161, 174)]
+Encontrado Desconhecido com dispersao 5603.40465151 em 2017-11-07 18:31:24.788035 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(30, 43) (138, 150)]
+Encontrado Desconhecido com dispersao 2991.10444714 em 2017-11-07 18:31:25.655420 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(22, 37) (151, 166)]
+Encontrado Desconhecido com dispersao 4009.23480225 em 2017-11-07 18:31:26.370027 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamentInvalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+o
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(22, 37) (151, 166)]
+Encontrado helder com dispersao 1024.85184879 em 2017-11-07 18:34:07.274876 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(30, 43) (138, 150)]
+Encontrado helder com dispersao 1155.3020289 em 2017-11-07 18:34:07.935645 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(30, 43) (138, 150)]
+Encontrado helder com dispersao 3431.2589879 em 2017-11-07 18:34:08.856745 na camera rtsp://aInvalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+dmin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(30, 43) (138, 150)]
+Encontrado helder com dispersao 5307.31013555 em 2017-11-07 18:34:09.644677 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(30, 43) (138, 150)]
+Encontrado helder com dispersao 6401.05182744 em 2017-11-07 18:34:10.347930 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(22, 37) (151, 166)]
+Encontrado helder com dispersao 5149.7085728 em 2017-11-07 18:34:11.135624 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(22, 37) (151, 166)]
+Encontrado helder com dispersao 5415.60389625 em 2017-11-07 18:34:11.755716 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(22, 37) (151, 166)]
+Encontrado helder com dispersao 5281.60707169 em 2017-11-07 18:34:12.537348 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(22, 37) (151, 166)]
+Encontrado helder com dispersao 4677.22131896 em 2017-11-07 18:34:13.341826 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(30, 43) (138, 150)]
+Encontrado helder com dispersao 2907.13262962 em 2017-11-07 18:34:13.932856 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(22, 23) (151, 152)]
+Encontrado Desconhecido com dispersao 667.757702315 em 2017-11-07 18:34:14.696648 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 1Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+80, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imageInvalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+m de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+ReInvalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+cebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para procInvalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+essamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (195, 180, 3) para processamento
+Processando regiao encontrada de dlib [(45, 45) (134, 135)]
+Encontrado Desconhecido com dispersao 6387.0459636 em 2017-11-07 18:41:07.547859 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(30, 43) (138, 150)]
+Encontrado Desconhecido com dispersao 3104.51562199 em 2017-11-07 18:41:08.364949 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (270, 240, 3) para processamento
+Processando regiao encontrada de dlib [(27, 44) (181, 199)]
+Encontrado Desconhecido com dispersao 7401.38553903 em 2017-11-07 18:41:09.308753 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (270, 240, 3) para processamento
+Processando regiao encontrada de dlib [(51, 66) (180, 195)]
+Encontrado Desconhecido com dispersao 6690.79752867 em 2017-11-07 18:41:40.071147 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(30, 43) (138, 150)]
+Encontrado Desconhecido com dispersao 4230.89027746 em 2017-11-07 18:41:40.800197 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(22, 37) (151, 166)]
+Encontrado Desconhecido com dispersao 5277.99498474 em 2017-11-07 18:41:41.554243 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(22, 37) (151, 166)]
+Encontrado Desconhecido com dispersao 2584.24314733 em 2017-11-07 18:41:42.247321 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (202, 180, 3) para processamento
+Processando regiao encontrada de dlib [(22, 23) (151, 152)]
+Encontrado Desconhecido com dispersao 1658.16504135 em 2017-11-07 18:41:42.864483 na camera rtsp://admin:huawei123@10.1.1.0:554/LiveMedia/ch1/Media1
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imInvalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+agem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (180, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (184, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (185, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamento
+Recebido imagem de (182, 180, 3) para processamentoInvalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Invalid UE golomb code
+Killed
